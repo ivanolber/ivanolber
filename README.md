@@ -1,5 +1,7 @@
  <!--START_SECTION:waka-->
-SHOW_TITLE 
-SHOW_TOTAL
+SHOW_TITLE: true
+SHOW_TOTAL: true
 <!--END_SECTION:waka-->
 
+SHOW_TITLE: true
+SHOW_TOTAL
