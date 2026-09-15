@@ -49,16 +49,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanolber&show_icons=true&theme=default&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanolber&theme=default" alt="Racha de GitHub" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanolber&layout=compact&theme=default" alt="Lenguajes más usados"/>
-</p>
 
 ---
 
