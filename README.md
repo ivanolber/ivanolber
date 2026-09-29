@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-olmos-berzosa-962b342b8/">LinkedIn</a> ·
-  <a href="mailto:ivann.ol.ber@gmail.com">ivann.ol.ber@gmail.com</a>
+  <a href="mailto:ivann.olb@gmail.com">ivann.olb@gmail.com</a>
 </p>
 
 <p align="center">
